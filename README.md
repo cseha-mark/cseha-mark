@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cseha-mark
 - 👀 I’m interested in ... C and embedded programing
-- 🌱 I’m currently learning ... assembly and ARM Cortex processors
-- 💞️ I’m looking to collaborate on ... anything I find interesting
+- 🌱 I’m currently learning ... python
+- 💞️ I’m looking to collaborate on ... embbedded projects, lower the level the better
 - 📫 How to reach me ... you can send me email to cseha.mark@gmail.com
 
 <!---
